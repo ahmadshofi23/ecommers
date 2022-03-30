@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'size_config.dart';
 
+const kwhiteColor = Color(0xFFFFFFFF);
 const kPrimaryColor = Color(0xFFFF7643);
 const kPrimaryLightColor = Color(0xFFFFECDF);
 const kPrimaryGradientColor = LinearGradient(
@@ -11,6 +12,7 @@ const kPrimaryGradientColor = LinearGradient(
 );
 const kSecondaryColor = Color(0xFF979797);
 const kTextColor = Color(0xFF757575);
+const kLinearColor = Color(0xFF343434);
 
 const kAnimationDuration = Duration(milliseconds: 300);
 
